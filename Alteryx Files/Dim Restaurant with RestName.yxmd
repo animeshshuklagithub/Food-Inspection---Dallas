@@ -1,0 +1,518 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2021.3">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="90" y="30" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">\\Mac\Home\Desktop\Dallas\New File (ID).csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>New File (ID).csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="RestID" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Restaurant Name" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Inspection Type" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Inspection Date" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Inspection Score" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Street Number" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Street Name" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Street Direction" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Street Type" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Street Unit" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Street Address" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Zip Code" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Description - 1" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Points - 1" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Detail - 1" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Memo - 1" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Description - 2" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Points - 2" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Detail - 2" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Memo - 2" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Description - 3" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Points - 3" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Detail - 3" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Memo - 3" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Description - 4" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Points - 4" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Detail - 4" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Memo - 4" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Description - 5" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Points - 5" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Detail - 5" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Memo - 5" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Description - 6" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Points - 6" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Detail - 6" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Memo - 6" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Description - 7" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Points - 7" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Detail - 7" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Memo - 7" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Description - 8" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Points - 8" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Detail - 8" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Memo - 8" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Description - 9" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Points - 9" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Detail - 9" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Memo - 9" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Description - 10" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Points - 10" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Detail - 10" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Memo - 10" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Description - 11" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Points - 11" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Detail - 11" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Memo - 11" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Description - 12" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Points - 12" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Detail - 12" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Memo - 12" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Description - 13" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Points - 13" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Detail - 13" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Memo - 13" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Description - 14" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Points - 14" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Detail - 14" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Memo - 14" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Description - 15" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Points - 15" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Detail - 15" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Memo - 15" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Description - 16" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Points - 16" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Detail - 16" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Memo - 16" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Description - 17" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Points - 17" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Detail - 17" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Memo - 17" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Description - 18" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Points - 18" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Detail - 18" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Memo - 18" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Description - 19" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Points - 19" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Detail - 19" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Memo - 19" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Description - 20" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Points - 20" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Detail - 20" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation  Memo - 20" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Description - 21" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Points - 21" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Detail - 21" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Memo - 21" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Description - 22" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Points - 22" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Detail - 22" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Memo - 22" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Description - 23" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Points - 23" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Detail - 23" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Memo - 23" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Description - 24" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Points - 24" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Detail - 24" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Memo - 24" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Description - 25" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Points - 25" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Detail - 25" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Violation Memo - 25" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Inspection Month" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Inspection Year" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+            <Field name="Lat Long Location" size="254" source="File: \\Mac\Home\Desktop\Dallas\New File (ID).csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="114" y="126" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">\\Mac\Home\Desktop\Dallas\DimRestaurant (Renamed).csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>DimRestaurant (Renamed).csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="RestID" size="254" source="File: \\Mac\Home\Desktop\Dallas\DimRestaurant (Renamed).csv" type="V_String" />
+            <Field name="Restaurant Name" size="254" source="File: \\Mac\Home\Desktop\Dallas\DimRestaurant (Renamed).csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="210" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="RestID" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="RestID" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Left_RestID" selected="True" input="Left_" />
+                <SelectField field="Left_Restaurant Name" selected="True" input="Left_" />
+                <SelectField field="Right_RestID" selected="False" rename="Right_RestID" input="Right_" />
+                <SelectField field="Right_Restaurant Name" selected="False" rename="Right_Restaurant Name" input="Right_" />
+                <SelectField field="*Unknown" selected="False" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="342" y="42" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\ANIMES~1\AppData\Local\Temp\Engine_11496_65b00ecdd3fc4355a6845850d6ab9869_\Engine_5688_9450b17e88ae4c87a57aa3a0c2586521_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="414" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="RestID" selected="True" />
+            <SelectField field="Restaurant Name" selected="True" />
+            <SelectField field="Inspection Type" selected="True" />
+            <SelectField field="Inspection Date" selected="True" />
+            <SelectField field="Inspection Score" selected="True" />
+            <SelectField field="Street Number" selected="True" />
+            <SelectField field="Street Name" selected="True" />
+            <SelectField field="Street Direction" selected="True" />
+            <SelectField field="Street Type" selected="True" />
+            <SelectField field="Street Unit" selected="True" />
+            <SelectField field="Street Address" selected="True" />
+            <SelectField field="Zip Code" selected="True" />
+            <SelectField field="Violation Description - 1" selected="True" />
+            <SelectField field="Violation Points - 1" selected="True" />
+            <SelectField field="Violation Detail - 1" selected="True" />
+            <SelectField field="Violation Memo - 1" selected="True" />
+            <SelectField field="Violation Description - 2" selected="True" />
+            <SelectField field="Violation Points - 2" selected="True" />
+            <SelectField field="Violation Detail - 2" selected="True" />
+            <SelectField field="Violation Memo - 2" selected="True" />
+            <SelectField field="Violation Description - 3" selected="True" />
+            <SelectField field="Violation Points - 3" selected="True" />
+            <SelectField field="Violation Detail - 3" selected="True" />
+            <SelectField field="Violation Memo - 3" selected="True" />
+            <SelectField field="Violation Description - 4" selected="True" />
+            <SelectField field="Violation Points - 4" selected="True" />
+            <SelectField field="Violation Detail - 4" selected="True" />
+            <SelectField field="Violation Memo - 4" selected="True" />
+            <SelectField field="Violation Description - 5" selected="True" />
+            <SelectField field="Violation Points - 5" selected="True" />
+            <SelectField field="Violation Detail - 5" selected="True" />
+            <SelectField field="Violation Memo - 5" selected="True" />
+            <SelectField field="Violation Description - 6" selected="True" />
+            <SelectField field="Violation Points - 6" selected="True" />
+            <SelectField field="Violation Detail - 6" selected="True" />
+            <SelectField field="Violation Memo - 6" selected="True" />
+            <SelectField field="Violation Description - 7" selected="True" />
+            <SelectField field="Violation Points - 7" selected="True" />
+            <SelectField field="Violation Detail - 7" selected="True" />
+            <SelectField field="Violation Memo - 7" selected="True" />
+            <SelectField field="Violation Description - 8" selected="True" />
+            <SelectField field="Violation Points - 8" selected="True" />
+            <SelectField field="Violation Detail - 8" selected="True" />
+            <SelectField field="Violation Memo - 8" selected="True" />
+            <SelectField field="Violation Description - 9" selected="True" />
+            <SelectField field="Violation Points - 9" selected="True" />
+            <SelectField field="Violation Detail - 9" selected="True" />
+            <SelectField field="Violation Memo - 9" selected="True" />
+            <SelectField field="Violation Description - 10" selected="True" />
+            <SelectField field="Violation Points - 10" selected="True" />
+            <SelectField field="Violation Detail - 10" selected="True" />
+            <SelectField field="Violation Memo - 10" selected="True" />
+            <SelectField field="Violation Description - 11" selected="True" />
+            <SelectField field="Violation Points - 11" selected="True" />
+            <SelectField field="Violation Detail - 11" selected="True" />
+            <SelectField field="Violation Memo - 11" selected="True" />
+            <SelectField field="Violation Description - 12" selected="True" />
+            <SelectField field="Violation Points - 12" selected="True" />
+            <SelectField field="Violation Detail - 12" selected="True" />
+            <SelectField field="Violation Memo - 12" selected="True" />
+            <SelectField field="Violation Description - 13" selected="True" />
+            <SelectField field="Violation Points - 13" selected="True" />
+            <SelectField field="Violation Detail - 13" selected="True" />
+            <SelectField field="Violation Memo - 13" selected="True" />
+            <SelectField field="Violation Description - 14" selected="True" />
+            <SelectField field="Violation Points - 14" selected="True" />
+            <SelectField field="Violation Detail - 14" selected="True" />
+            <SelectField field="Violation Memo - 14" selected="True" />
+            <SelectField field="Violation Description - 15" selected="True" />
+            <SelectField field="Violation Points - 15" selected="True" />
+            <SelectField field="Violation Detail - 15" selected="True" />
+            <SelectField field="Violation Memo - 15" selected="True" />
+            <SelectField field="Violation Description - 16" selected="True" />
+            <SelectField field="Violation Points - 16" selected="True" />
+            <SelectField field="Violation Detail - 16" selected="True" />
+            <SelectField field="Violation Memo - 16" selected="True" />
+            <SelectField field="Violation Description - 17" selected="True" />
+            <SelectField field="Violation Points - 17" selected="True" />
+            <SelectField field="Violation Detail - 17" selected="True" />
+            <SelectField field="Violation Memo - 17" selected="True" />
+            <SelectField field="Violation Description - 18" selected="True" />
+            <SelectField field="Violation Points - 18" selected="True" />
+            <SelectField field="Violation Detail - 18" selected="True" />
+            <SelectField field="Violation Memo - 18" selected="True" />
+            <SelectField field="Violation Description - 19" selected="True" />
+            <SelectField field="Violation Points - 19" selected="True" />
+            <SelectField field="Violation Detail - 19" selected="True" />
+            <SelectField field="Violation Memo - 19" selected="True" />
+            <SelectField field="Violation Description - 20" selected="True" />
+            <SelectField field="Violation Points - 20" selected="True" />
+            <SelectField field="Violation Detail - 20" selected="True" />
+            <SelectField field="Violation  Memo - 20" selected="True" />
+            <SelectField field="Violation Description - 21" selected="True" />
+            <SelectField field="Violation Points - 21" selected="True" />
+            <SelectField field="Violation Detail - 21" selected="True" />
+            <SelectField field="Violation Memo - 21" selected="True" />
+            <SelectField field="Violation Description - 22" selected="True" />
+            <SelectField field="Violation Points - 22" selected="True" />
+            <SelectField field="Violation Detail - 22" selected="True" />
+            <SelectField field="Violation Memo - 22" selected="True" />
+            <SelectField field="Violation Description - 23" selected="True" />
+            <SelectField field="Violation Points - 23" selected="True" />
+            <SelectField field="Violation Detail - 23" selected="True" />
+            <SelectField field="Violation Memo - 23" selected="True" />
+            <SelectField field="Violation Description - 24" selected="True" />
+            <SelectField field="Violation Points - 24" selected="True" />
+            <SelectField field="Violation Detail - 24" selected="True" />
+            <SelectField field="Violation Memo - 24" selected="True" />
+            <SelectField field="Violation Description - 25" selected="True" />
+            <SelectField field="Violation Points - 25" selected="True" />
+            <SelectField field="Violation Detail - 25" selected="True" />
+            <SelectField field="Violation Memo - 25" selected="True" />
+            <SelectField field="Inspection Month" selected="True" />
+            <SelectField field="Inspection Year" selected="True" />
+            <SelectField field="Lat Long Location" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="534" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\ANIMES~1\AppData\Local\Temp\Engine_11496_65b00ecdd3fc4355a6845850d6ab9869_\Engine_5688_1c44d80c4dc24d40ba567daf480b77a3_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="534" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="0">\\Mac\Home\Desktop\Dallas\DimRestaurant (Renamed).csv</File>
+          <Passwords />
+          <FormatSpecificOptions>
+            <LineEndStyle>CRLF</LineEndStyle>
+            <Delimeter>,</Delimeter>
+            <ForceQuotes>False</ForceQuotes>
+            <HeaderRow>True</HeaderRow>
+            <CodePage>28591</CodePage>
+            <WriteBOM>True</WriteBOM>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>DimRestaurant (Renamed).csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="3" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="3" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Left" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Join" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="6" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="7" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Dim Restaurant with RestName</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="d0a21030-8f40-4152-a83c-3debe60c1a5e" />
+      <Telemetry>
+        <PreviousWorkflowId value="9f0817d0-e683-432b-9525-38424aa22722" />
+        <OriginWorkflowId value="9f0817d0-e683-432b-9525-38424aa22722" />
+      </Telemetry>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
